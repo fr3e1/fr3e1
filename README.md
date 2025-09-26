@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Linux basics, basic server management**
 
-- 📫 How to reach me **fr3e.acc0unt@gmail.com**
+- 📫 How to reach me **fr3e@fr3e.ca**
 
 - ⚡ Fun fact **I am making a website that will be on my own domain soon!!**
 

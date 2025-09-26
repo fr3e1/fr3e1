@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fr3e.acc0unt@gmail.com**
 
-- ⚡ Fun fact **Senko-San shares a VA with Maika from Blend S**
+- ⚡ Fun fact **I am making a website that will be on my own domain soon!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

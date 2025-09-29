@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FR3E</h1>
+<h1 align="center">Hi, I'm FR3E</h1>
 <h3 align="center">A server tinkerer and Linux enthusiast</h3>
 
 - 🌱 I’m currently learning **Advanced bash scripting, website deployment**

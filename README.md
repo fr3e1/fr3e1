@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fr3e@fr3e.ca**
 
-- ⚡ Fun fact **I am making a website that will be on my own domain soon!!**
+- ⚡ Fun fact **I am hosting a website at [fr3e.ca](https://fr3e.ca), check it out!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm FR3E</h1>
 <h3 align="center">A server tinkerer and Linux enthusiast</h3>
 
-- 🌱 I’m currently learning **Advanced bash scripting, website deployment**
+- 🌱 I’m currently learning **bash scripting, website deployment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fr3e1](https://github.com/fr3e1)
 

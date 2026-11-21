@@ -46,17 +46,13 @@ I'm an IT Systems Administration student who learns by building. I run my own **
   <a href="https://github.com/fr3e1/homelab-tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fr3e1&repo=homelab-tools&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="homelab-tools" /></a>
   <a href="https://github.com/fr3e1/proxmox-for-school"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fr3e1&repo=proxmox-for-school&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="proxmox-for-school" /></a>
   <a href="https://github.com/fr3e1/arch-autoinstaller"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fr3e1&repo=arch-autoinstaller&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="arch-autoinstaller" /></a>
-  <a href="https://github.com/fr3e1/SenkOS-dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fr3e1&repo=SenkOS-dotfiles&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="SenkOS-dotfiles" /></a>
 </div>
 
 | Project | What it shows |
 | --- | --- |
 | 🧰 [**homelab-tools**](https://github.com/fr3e1/homelab-tools) | Scripts I wrote to manage and maintain my homelab servers |
-| 🏫 [**proxmox-for-school**](https://github.com/fr3e1/proxmox-for-school) | A plan for using Proxmox to teach students Linux and virtualization |
 | ⚙️ [**arch-autoinstaller**](https://github.com/fr3e1/arch-autoinstaller) | An automated Arch Linux installer written in Bash |
-| 🎨 [**SenkOS-dotfiles**](https://github.com/fr3e1/SenkOS-dotfiles) | A themed Hyprland desktop config (my most-starred repo ⭐) |
 | 🐧 [**shinri-hub-linux**](https://github.com/fr3e1/shinri-hub-linux) | A shell workaround that gets a Windows-only game launcher running on Linux |
-| 🌐 [**local-website**](https://github.com/fr3e1/local-website) | The source for my self-hosted website |
 
 ---
 

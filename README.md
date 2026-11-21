@@ -6,7 +6,6 @@
 
 [![Website](https://img.shields.io/badge/fr3e.ca-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://fr3e.ca)
 [![Email](https://img.shields.io/badge/fr3e%40fr3e.ca-0d1117?style=for-the-badge&logo=maildotru&logoColor=58A6FF)](mailto:fr3e@fr3e.ca)
-[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@fr3e.)
 ![Profile views](https://komarev.com/ghpvc/?username=fr3e1&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>

@@ -85,8 +85,7 @@ I'm an IT Systems Administration student who learns by building. I run my own **
 <summary>🎧 What I'm listening to</summary>
 <br/>
 
-![Recently played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31k6imvumrnstyhunrjvnpmzqiay)
-
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31k6imvumrnstyhunrjvnpmzqiay)
 </details>
 
 <div align="center">

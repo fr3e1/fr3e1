@@ -77,6 +77,8 @@ I'm an IT Systems Administration student who learns by building. I run my own **
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/fr3e1/seccam/pull/1) in [fr3e1/seccam](https://github.com/fr3e1/seccam)
+2. 💪 Opened PR [#1](https://github.com/fr3e1/seccam/pull/1) in [fr3e1/seccam](https://github.com/fr3e1/seccam)
 <!--END_SECTION:activity-->
 
 ---
